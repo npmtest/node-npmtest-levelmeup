@@ -1,6 +1,6 @@
 # npmtest-levelmeup
 
-#### test coverage for  [levelmeup (v1.0.0)](https://github.com/workshopper/levelmeup#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-levelmeup.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-levelmeup) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-levelmeup.svg)](https://travis-ci.org/npmtest/node-npmtest-levelmeup)
+#### basic test coverage for  [levelmeup (v1.0.0)](https://github.com/workshopper/levelmeup#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-levelmeup.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-levelmeup) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-levelmeup.svg)](https://travis-ci.org/npmtest/node-npmtest-levelmeup)
 
 #### Level Me Up Scotty! An intro to Node.js databases via a set of self-guided workshops.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-levelmeup/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-levelmeup/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-levelmeup/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-levelmeup/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-levelmeup/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-levelmeup/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-levelmeup/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-levelmeup/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-levelmeup/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-levelmeup/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-levelmeup/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-levelmeup/build/coverage.html/index.html)
 
